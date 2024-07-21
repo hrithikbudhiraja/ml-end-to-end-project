@@ -147,5 +147,5 @@ MLflow
 
 - Its Production Grade
 - Trace all of your expriements
-- Logging and tagging your model
+- Logging and  tagging your model
 
